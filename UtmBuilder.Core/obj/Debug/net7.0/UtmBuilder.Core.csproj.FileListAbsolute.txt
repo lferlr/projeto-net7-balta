@@ -1,0 +1,12 @@
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.deps.json
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.pdb
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.csproj.AssemblyReference.cache
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.AssemblyInfoInputs.cache
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.AssemblyInfo.cs
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.csproj.CoreCompileInputs.cache
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/refint/UtmBuilder.Core.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.pdb
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/ref/UtmBuilder.Core.dll
