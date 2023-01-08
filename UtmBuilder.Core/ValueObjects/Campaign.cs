@@ -2,7 +2,7 @@ using UtmBuilder.Core.ValueObjects.Exceptions;
 
 namespace UtmBuilder.Core.ValueObjects;
 
-public class Campaing : ValueObject
+public class Campaign : ValueObject
 {
     /// <summary>
     /// Generate a new campaign for a URL
@@ -13,7 +13,13 @@ public class Campaing : ValueObject
     /// <param name="id">The ads campaign id.</param>
     /// <param name="term">Identify the paid keywords</param>
     /// <param name="content">Use to differentiate ads</param>
-    public Campaing(string source, string medium, string name, string? id, string? term, string? content)
+    public Campaign(
+        string source, 
+        string medium, 
+        string name, 
+        string? id = null, 
+        string? term = null, 
+        string? content = null)
     {
         Source = source;
         Medium = medium; 

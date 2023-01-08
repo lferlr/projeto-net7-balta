@@ -6,10 +6,10 @@ namespace UtmBuilder.Core;
 
 public class Utm
 {
-    public Utm(Url url, Campaing campaing)
+    public Utm(Url url, Campaign campaign)
     {
         Url = url;
-        Campaing = campaing;
+        Campaign = campaign;
     }
     
     /// <summary>
@@ -20,7 +20,7 @@ public class Utm
     /// <summary>
     /// Campaing datails
     /// </summary>
-    public Campaing Campaing { get; }
+    public Campaign Campaign { get; }
 
     public static implicit operator string(Utm utm) 
         => utm.ToString();
@@ -45,19 +45,19 @@ public class Utm
         var term = pars.Where(x => x.StartsWith("utm_term")).FirstOrDefault("").Split("=")[1];
         var content = pars.Where(x => x.StartsWith("utm_content")).FirstOrDefault("").Split("=")[1];
 
-        var utm = new Utm(new Url(segments[0]), new Campaing(source, medium, name, id, term, content));
+        var utm = new Utm(new Url(segments[0]), new Campaign(source, medium, name, id, term, content));
 
         return utm;
     }
     public override string ToString()
     {
         var segments = new List<string>();
-        segments.AddIfNotNull("utm_source", Campaing.Source);
-        segments.AddIfNotNull("utm_medium", Campaing.Medium);
-        segments.AddIfNotNull("utm_campaign", Campaing.Name);
-        segments.AddIfNotNull("utm_id", Campaing.Id);
-        segments.AddIfNotNull("utm_term", Campaing.Term);
-        segments.AddIfNotNull("utm_content", Campaing.Content );
+        segments.AddIfNotNull("utm_source", Campaign.Source);
+        segments.AddIfNotNull("utm_medium", Campaign.Medium);
+        segments.AddIfNotNull("utm_campaign", Campaign.Name);
+        segments.AddIfNotNull("utm_id", Campaign.Id);
+        segments.AddIfNotNull("utm_term", Campaign.Term);
+        segments.AddIfNotNull("utm_content", Campaign.Content );
         return $"{Url.Address}?{string.Join("&", segments)}";
     } 
 }

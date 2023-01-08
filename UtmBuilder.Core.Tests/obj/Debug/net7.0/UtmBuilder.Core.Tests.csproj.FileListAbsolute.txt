@@ -1,3 +1,4 @@
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -84,6 +85,8 @@
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/UtmBuilder.Core.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/UtmBuilder.Core.pdb
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/UtmBuilder.Core.Tests.csproj.AssemblyReference.cache
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/UtmBuilder.Core.Tests.GeneratedMSBuildEditorConfig.editorconfig
@@ -96,6 +99,3 @@
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/UtmBuilder.Core.Tests.pdb
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/UtmBuilder.Core.Tests.genruntimeconfig.cache
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/ref/UtmBuilder.Core.Tests.dll
-/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
-/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/UtmBuilder.Core.dll
-/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/UtmBuilder.Core.pdb
