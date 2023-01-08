@@ -96,3 +96,6 @@
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/UtmBuilder.Core.Tests.pdb
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/UtmBuilder.Core.Tests.genruntimeconfig.cache
 /Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/obj/Debug/net7.0/ref/UtmBuilder.Core.Tests.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/UtmBuilder.Core.dll
+/Users/lucasrodrigues/dev/Balta/UtmBuilder/UtmBuilder.Core.Tests/bin/Debug/net7.0/UtmBuilder.Core.pdb
